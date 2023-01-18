@@ -2,7 +2,6 @@
 
 A Simple ToDo App is built using the MVC Architecture
 
-![Animation](https://user-images.githubusercontent.com/84820874/191619739-9c4951ba-7583-4c19-abb8-79b84b2739f9.gif)
 
 ## How It's Made:
 
